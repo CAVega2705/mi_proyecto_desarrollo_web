@@ -1,2 +1,2 @@
-# mi_proyecto_desarrollo_web
-Proyecto final del curso de Desarrollador Web en Inove
+# Mi proyecto final en Desarrollador web
+El proyecto consiste en desarrollar una página para carga de CVs y postulaciones a puestos de empleo.
